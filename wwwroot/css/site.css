@@ -363,7 +363,7 @@ body {
 #green-pin-polaroid {
     height: 40px;
     position: relative;
-    top: -3780px;
+    top: -3760px;
     left: 690px;
     z-index: 10;
 }
@@ -371,7 +371,7 @@ body {
 #purple-pin-polaroid {
     height: 40px;
     position: relative;
-    top: -3800px;
+    top: -3780px;
     left: 550px;
     z-index: 1000;
 }
@@ -387,7 +387,7 @@ body {
 #red-pin-polaroid {
     height: 40px;
     position: relative;
-    top: -3740px;
+    top: -3720px;
     left: 485px;
     z-index: 1000;
 }
@@ -410,14 +410,14 @@ body {
 #key-ring {
     height: 100px;
     position: relative;
-    top: -3820px;
+    top: -3800px;
     left: 980px;
 }
 
 #smiley {
     height: 100px;
     position: relative;
-    top: -3735px;
+    top: -3715px;
     left: 650px;
 }
 
@@ -450,7 +450,7 @@ body {
 
 #map {
     position: relative;
-    top: -1402px;
+    top: -1415px;
     left: 210px;
     z-index: 1000;
     width: 300px;
@@ -959,7 +959,7 @@ body {
 
     #map {
         position: relative;
-        top: -1140px;
+        top: -1110px;
         left: 190px;
         z-index: 1000;
         width: 250px;
